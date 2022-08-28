@@ -1,1 +1,1 @@
-alert("Olá, sou Andresa! Sejam-Bem Vindos!");
+alert("Olá, Sou Andresa. Seja Bem Vindo!);
